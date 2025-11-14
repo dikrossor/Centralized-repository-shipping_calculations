@@ -1,5 +1,3 @@
-
-# Here is another update by dikrossor
 # Here is a new update by dikrossor
 # Shipping Cost Calculator
 
